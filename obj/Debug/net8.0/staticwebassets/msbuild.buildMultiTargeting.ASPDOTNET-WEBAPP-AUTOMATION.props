@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASPDOTNET-WEBAPP-AUTOMATION.props" />
+</Project>
