@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASPDOTNET-WEBAPP-AUTOMATION")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0be93a9e43481da45361595ef567387b47e45e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASPDOTNET-WEBAPP-AUTOMATION")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASPDOTNET-WEBAPP-AUTOMATION")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
